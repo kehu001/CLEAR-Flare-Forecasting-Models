@@ -32,23 +32,24 @@ This repository accompanies the following paper:
 ## Repository Structure
 
 
-├── data/ # Processed datasets
-├── figures/ # Figures used in the paper
-├── Logreg_models/ # Logistic regression models
-├── LSTM_models/ # LSTM models
-├── results/ # Evaluation results
-├── scripts_model_training/ # Training scripts
-├── scripts_updating_list/ # Flare list processing
+├── data/ # Processed datasets\\
+├── figures/ # Figures used in the paper\\
+├── Logreg_models/ # Logistic regression models\\
+├── LSTM_models/ # LSTM models\\
+├── results/ # Evaluation results\\
+├── scripts_model_training/ # Training scripts\\
+├── scripts_updating_list/ # Flare list processing\\
+├── Sci-Quality data augmentation pipline description # science-quality flare list augmentation logic\\
 └── README.md
 
 
 
 ## Contact
 
-Ke Hu
+Ke Hu\\
 uhek@umich.edu
 
-Yang Chen
+Yang Chen\\
 ychenang@umich.edu
 
 
