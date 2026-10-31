@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1015268586.svg)](https://doi.org/10.5281/zenodo.23840892)
+
 # Solar Flare Data Quality and Prediction Pipeline
 
 This repository contains the code and data processing pipeline for our study on 
