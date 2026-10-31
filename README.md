@@ -31,6 +31,7 @@ This repository accompanies the following paper:
 
 ## Repository Structure
 
+├── revision/ # Final models and results used in Section 4
 
 ├── data/ # Processed datasets
 
